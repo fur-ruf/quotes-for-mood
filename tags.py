@@ -1,0 +1,22 @@
+TAGS = {
+    "wisdom": "wisdom, insight, deep understanding, life lessons",
+    "philosophy": "philosophy, thinking, existence, meaning",
+    "life": "life, living, human experience",
+    "truth": "truth, honesty, reality",
+    "inspirational": "inspiration, motivation, hope",
+    "relationships": "relationships, connection, people",
+    "love": "love, affection, romance",
+    "faith": "faith, belief, trust, spirituality",
+    "humor": "humor, fun, laughter",
+    "success": "success, achievement, goals",
+    "courage": "courage, bravery, strength",
+    "happiness": "happiness, joy, peace",
+    "art": "art, creativity, expression",
+    "writing": "writing, words, storytelling",
+    "fear": "fear, anxiety, worry",
+    "nature": "nature, earth, environment",
+    "time": "time, past, future",
+    "freedom": "freedom, independence, choice",
+    "death": "death, mortality, end",
+    "leadership": "leadership, guidance, responsibility"
+}
